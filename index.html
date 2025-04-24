@@ -45,7 +45,7 @@
             <form action="https://formspree.io/f/mgvaqbpg" method="post">
 
               <div class="letrasFormulario">
-                <legend class="titulo-formulario">Manda tus datos</legend>
+                <legend>Manda tus datos</legend>
 
                 <label for="nombre">Nombre:</label>
                 <input type="text" name="nombre" id="nombre" placeholder="escribi tu nombre" required><br><br>
@@ -56,15 +56,15 @@
                 <label for="opciones">Cual es tu sexo?</label>
 
                 <label for="masculino">M</label>
-                <input type="radio" name="sexo" required>
+                <input type="radio" name="sexo" id="sexo" required>
 
                 <label for="femenino">F</label>
-                <input type="radio" name="sexo" required><br><br>
+                <input type="radio" name="sexo" id="sexo" required><br><br>
                 
                 <label for="pais">Cual es tu pais?</label>
-                <select name="options">
-                    <option value="opcion1">Argentina</option>
-                    <option value="opcion2">Peru</option>
+                <select name="paises">
+                    <option value="Argentina">Argentina</option>
+                    <option value="Argentina">Peru</option>
                 </select>
                 
                 <button type="submit">mandar</button>

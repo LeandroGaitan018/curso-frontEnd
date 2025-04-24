@@ -7,10 +7,10 @@ nav{
 
     color: black;
     display: inline-block;
-    padding: 3px;
-    margin: 2;
+    padding: 4px;
+    margin: 0.2vh;
     
-    width: 500px;
+    width: 38vw;
 
   
 
@@ -22,6 +22,7 @@ nav{
     padding-top: 0;
     margin-bottom: 10px;
     color:darkred;
+    font-size: 4vh;
 }
 
 
@@ -34,11 +35,13 @@ h1, h2, h3, h4, h5, h6{
     margin-bottom: 0px;
     color:royalblue;
     font-style: italic;
-    font-weight: 500px;
+    font-weight: 50vh 50vw;
+    font-size: 5vh;
 }
 
 .titulo{
-    font-size: 50px;
+    font-size: 9vh;
+    margin-bottom: 2vh;
 }
 
 
@@ -51,21 +54,21 @@ body{
 
     margin-bottom: 0 auto;
     margin-top: 0 auto;
-    height: 300px;
-    width: 500px;
+    height: 50vh;
+    width: 36vw;
     
 }
 
 section{
 
-    margin-bottom: 3px;
+    margin-bottom: 3vh;
     margin-top: 0;
 }
 
 div{
 
     background-color: chartreuse;
-    padding: 40px;
+    padding: 7vh 5vw;
     margin: 0 auto;
     display: inline-block;
 }
@@ -77,3 +80,8 @@ div{
     
 }
 
+
+a{
+
+    color: black;
+}
