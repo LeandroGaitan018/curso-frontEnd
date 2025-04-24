@@ -7,9 +7,9 @@ nav{
 
     color: black;
     display: inline-block;
-    padding: 4px;
-    margin: 0.2vh;
-    
+    padding: 0.5em;
+    margin: 0.2em;
+    margin-top: 0.5em;
     width: 38vw;
 
   
@@ -18,11 +18,11 @@ nav{
 
 .nombres{
 
-    margin-top: 30px;
-    padding-top: 0;
-    margin-bottom: 10px;
+    margin-top: 1.5em;
+    padding-top: 0em;
+    margin-bottom: 0.4em;
     color:darkred;
-    font-size: 4vh;
+    font-size: 1.6em;
 }
 
 
@@ -30,9 +30,9 @@ nav{
 
 h1, h2, h3, h4, h5, h6{
 
-    padding: 0;
-    margin-top: 0;
-    margin-bottom: 0px;
+    padding: 0em;
+    margin-top: 0em;
+    margin-bottom: 0em;
     color:royalblue;
     font-style: italic;
     font-weight: 50vh 50vw;
@@ -41,7 +41,7 @@ h1, h2, h3, h4, h5, h6{
 
 .titulo{
     font-size: 9vh;
-    margin-bottom: 2vh;
+    margin-bottom: 0.3em;
 }
 
 
@@ -63,17 +63,17 @@ body{
 
 section{
 
-    margin-bottom: 3vh;
-    margin-top: 0;
+    margin-bottom: 2em;
+    margin-top: 0em;
 }
 
 div{
 
     background-color: chartreuse;
-    padding: 7vh 5vw;
+    padding: 5em 3em;
     margin: 0 auto;
     display: inline-block;
-    border: groove 2vh;
+    border: groove 1vw;
 }
 
 .letrasFormulario{
