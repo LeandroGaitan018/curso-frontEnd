@@ -48,6 +48,8 @@ h1, h2, h3, h4, h5, h6{
 body{
     
     background-color:purple;
+    border: ridge 2vh palevioletred;
+    margin: 0 auto;
 }
 
 .foto-titulo{
@@ -71,6 +73,7 @@ div{
     padding: 7vh 5vw;
     margin: 0 auto;
     display: inline-block;
+    border: groove 2vh;
 }
 
 .letrasFormulario{
