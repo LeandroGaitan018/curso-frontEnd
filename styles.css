@@ -1,0 +1,79 @@
+*{
+    text-align: center;
+}
+
+nav{
+    background-color:darkred;
+
+    color: black;
+    display: inline-block;
+    padding: 3px;
+    margin: 2;
+    
+    width: 500px;
+
+  
+
+}
+
+.nombres{
+
+    margin-top: 30px;
+    padding-top: 0;
+    margin-bottom: 10px;
+    color:darkred;
+}
+
+
+
+
+h1, h2, h3, h4, h5, h6{
+
+    padding: 0;
+    margin-top: 0;
+    margin-bottom: 0px;
+    color:royalblue;
+    font-style: italic;
+    font-weight: 500px;
+}
+
+.titulo{
+    font-size: 50px;
+}
+
+
+body{
+    
+    background-color:purple;
+}
+
+.foto-titulo{
+
+    margin-bottom: 0 auto;
+    margin-top: 0 auto;
+    height: 300px;
+    width: 500px;
+    
+}
+
+section{
+
+    margin-bottom: 3px;
+    margin-top: 0;
+}
+
+div{
+
+    background-color: chartreuse;
+    padding: 40px;
+    margin: 0 auto;
+    display: inline-block;
+}
+
+.letrasFormulario{
+
+    color: purple;
+    font-stretch: expanded;
+    
+}
+
