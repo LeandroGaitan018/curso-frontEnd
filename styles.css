@@ -48,16 +48,16 @@ h1, h2, h3, h4, h5, h6{
 body{
     
     background-color:purple;
-    border: ridge 2vh palevioletred;
+    border: ridge 1vw palevioletred;
     margin: 0 auto;
 }
 
 .foto-titulo{
 
-    margin-bottom: 0 auto;
-    margin-top: 0 auto;
-    height: 50vh;
-    width: 36vw;
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
     
 }
 
