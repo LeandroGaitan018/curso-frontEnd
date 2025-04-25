@@ -67,6 +67,15 @@ section{
     margin-top: 0em;
 }
 
+.musicos{
+
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    flex-wrap:wrap;
+
+}
+
 div{
 
     background-color: chartreuse;
